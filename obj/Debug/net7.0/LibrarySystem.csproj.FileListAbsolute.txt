@@ -1,0 +1,14 @@
+/home/omidsa/LibrarySystems/LibrarySystem/bin/Debug/net7.0/LibrarySystem
+/home/omidsa/LibrarySystems/LibrarySystem/bin/Debug/net7.0/LibrarySystem.deps.json
+/home/omidsa/LibrarySystems/LibrarySystem/bin/Debug/net7.0/LibrarySystem.runtimeconfig.json
+/home/omidsa/LibrarySystems/LibrarySystem/bin/Debug/net7.0/LibrarySystem.dll
+/home/omidsa/LibrarySystems/LibrarySystem/bin/Debug/net7.0/LibrarySystem.pdb
+/home/omidsa/LibrarySystems/LibrarySystem/obj/Debug/net7.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/omidsa/LibrarySystems/LibrarySystem/obj/Debug/net7.0/LibrarySystem.AssemblyInfoInputs.cache
+/home/omidsa/LibrarySystems/LibrarySystem/obj/Debug/net7.0/LibrarySystem.AssemblyInfo.cs
+/home/omidsa/LibrarySystems/LibrarySystem/obj/Debug/net7.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/home/omidsa/LibrarySystems/LibrarySystem/obj/Debug/net7.0/LibrarySystem.dll
+/home/omidsa/LibrarySystems/LibrarySystem/obj/Debug/net7.0/refint/LibrarySystem.dll
+/home/omidsa/LibrarySystems/LibrarySystem/obj/Debug/net7.0/LibrarySystem.pdb
+/home/omidsa/LibrarySystems/LibrarySystem/obj/Debug/net7.0/LibrarySystem.genruntimeconfig.cache
+/home/omidsa/LibrarySystems/LibrarySystem/obj/Debug/net7.0/ref/LibrarySystem.dll
